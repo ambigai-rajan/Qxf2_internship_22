@@ -10,7 +10,4 @@
      I had fixed my issues in git hub private repo given shiva bro
      I had some practise on python by clearing some errors given in qxf2 repo
      Cleared errors in 13 python program
-  #Day3
-    I have updated README.md file with my day 2 activities 
-    And refered the web site and learn software things 
-    prepare for how to test a website 
+  
