@@ -1,4 +1,4 @@
-# jattu
+# Day 1
     I have completed creating and installing **skype**
     I have completed istalling *vs code*
     I have completed creating ~~trillo~~ `trello` acount 
