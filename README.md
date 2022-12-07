@@ -18,14 +18,14 @@
  
  
  #Day3
-    I have updated README.md file with my day 2 activities 
+    I have updated `README.md` file with my day 2 activities 
     And refered the [website](https://www.ibm.com/in-en/topics/software-testing) and learn software things 
     prepare for how to test a website
   
 
 
   #Day4
-   -  Created a new branch on my githup private [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and Updated README.md file with my Day 3 activities
+   -  Created a new branch on my githup private [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and Updated `README.md` file with my Day 3 activities
    - Presented a presentation about about how to test a FLIPKART website
    - Readed a [blog](https://medium.com/@phdmeyildiz/mindset-shifts-for-engineers-to-achieve-higher-software-quality-8ef8ee00a041) about how the mindset of software engineer to be and taken notes from it
-   - Fix the issues in my private [repo](https://github.com/ambigai-rajan/Qxf2_internship_22)
+   - Fix the issues in my private [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) 
