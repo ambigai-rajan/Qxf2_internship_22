@@ -1,11 +1,11 @@
  `#day1`
-    - I have completed creating and installing **skype**
-    - I have completed istalling *vs code*
-    - I have completed creating ~~trillo~~ [trello](https://trello.com/) acount.
-    - I have completed creating [github](https://github.com/ambigai-rajan) account.
-    - I have installed **python**.
-    - I have updated my [linkedin](https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.127961666300_crid.601257986824_kw.www%20linkedin_d.c_tid.kwd-2246447582_n.g_mt.e_geo.1007812) profile and my **resume**
-    - I have created a repositary in [github](https://github.com/ambigai-rajan/Qxf2_internship_22)
+   - I have completed creating and installing **skype**
+   - I have completed istalling *vs code*
+   - I have completed creating ~~trillo~~ [trello](https://trello.com/) acount.
+   - I have completed creating [github](https://github.com/ambigai-rajan) account.
+   - I have installed **python**.
+   - I have updated my [linkedin](https://www.linkedin.com/feed/?trk=sem-ga_campid.14650114788_asid.127961666300_crid.601257986824_kw.www%20linkedin_d.c_tid.kwd-2246447582_n.g_mt.e_geo.1007812) profile and my **resume**
+   - I have created a repositary in [github](https://github.com/ambigai-rajan/Qxf2_internship_22)
   
   
   
