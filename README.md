@@ -29,3 +29,11 @@
    - Presented a presentation about about how to test a [FLIPKART](https://www.flipkart.com/) website
    - Readed a [blog](https://medium.com/@phdmeyildiz/mindset-shifts-for-engineers-to-achieve-higher-software-quality-8ef8ee00a041) about how the mindset of software engineer to be and taken notes from it
    - Fix the issues in my private [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) 
+   
+   
+   `#Day5`
+   - created a new branch on my githup [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day4 activities
+   - Presented a presentation about my week1 activity
+   - Updated my [linkedin](https://www.linkedin.com/in/ambigai-rajan-n-bb6027259/) profile and `Resume`
+   - I learned **What is pip, modules in python and virtual environment**
+   - Renamed my git repo and added some formatting texts
