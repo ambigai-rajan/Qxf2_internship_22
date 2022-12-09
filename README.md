@@ -37,3 +37,9 @@
    - Updated my [linkedin](https://www.linkedin.com/in/ambigai-rajan-n-bb6027259/) profile and `Resume`
    - I learned **What is pip, modules in python and virtual environment**
    - Renamed my git repo and added some formatting texts
+
+
+   `#Day6`
+   - created a new branch on my githup [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day5 activities
+   - Created Mind map and ACC model 
+   - I did my Testings in qxf2 [webpage](https://qxf2.com/selenium-tutorial-main)
