@@ -43,3 +43,9 @@
    - created a new branch on my githup [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day5 activities
    - Created Mind map and ACC model 
    - I did my Testings in qxf2 [webpage](https://qxf2.com/selenium-tutorial-main)
+
+
+   `#Day7`
+   - Created anew branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day6 activities
+   - Created cover letter 
+   - Started Learning selinium
