@@ -49,3 +49,9 @@
    - Created anew branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day6 activities
    - Created cover letter 
    - Started Learning selinium
+
+   `#Day8`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 7 activities
+   - learnt selenium binding python
+   - learning about HTML and CSS
+   - Practicing Keyboard shortcuts
