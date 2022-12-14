@@ -55,3 +55,8 @@
    - learnt selenium binding python
    - learning about HTML and CSS
    - Practicing Keyboard shortcuts
+
+   `#Day9`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 8 activities
+   - learnt DOM
+   - learnt Selenium and virtual environment in deatail
