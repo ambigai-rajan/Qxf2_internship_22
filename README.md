@@ -55,3 +55,8 @@
    - learnt selenium binding python
    - learning about HTML and CSS
    - Practicing Keyboard shortcuts
+
+   `#Day9`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 8 activities
+   - learnt [DOM](https://www.youtube.com/watch?v=D04yjfmgiD4&t=38s)
+   - learnt [Selenium](https://www.guru99.com/introduction-to-selenium.html) and [virtualenvironment](https://www.geeksforgeeks.org/python-virtual-environment/) in deatail
