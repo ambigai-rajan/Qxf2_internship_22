@@ -64,3 +64,8 @@
    `#Day10`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 9 activities
    - learning [Xpath](https://www.w3schools.com/xml/xpath_intro.asp) and [CSSselectors](https://www.w3schools.com/css/css_selectors.asp)
+
+   `#Day11`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 10 activities
+   - Learnt virtual environment
+   - Learnt XPATH
