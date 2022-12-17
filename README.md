@@ -67,5 +67,5 @@
 
    `#Day11`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 10 activities
-   - Learnt virtual environment
-   - Learnt XPATH
+   - Learnt [virtualenvironment](https://www.geeksforgeeks.org/python-virtual-environment/)
+   - Learnt [XPATH](https://qxf2.com/blog/getting-started-with-xpaths/)
