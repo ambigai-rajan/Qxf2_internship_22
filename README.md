@@ -69,3 +69,8 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 10 activities
    - Learnt [virtualenvironment](https://www.geeksforgeeks.org/python-virtual-environment/)
    - Learnt [XPATH](https://qxf2.com/blog/getting-started-with-xpaths/)
+
+   `#Day12`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 11 activities
+   - learnt [XPATH](https://qxf2.com/blog/getting-started-with-xpaths/) and [CSS](https://qxf2.com/blog/how-to-write-css-selectors/) selecors
+   - picked a python project and make changes to it (minecraft game)
