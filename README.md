@@ -73,4 +73,4 @@
    `#Day12`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 11 activities
    - learnt [XPATH](https://qxf2.com/blog/getting-started-with-xpaths/) and [CSS](https://qxf2.com/blog/how-to-write-css-selectors/) selecors
-   - picked a python project and make changes to it (minecraft game)
+   - picked a python project and make changes to it (minecraft game and added sky texture to it)
