@@ -85,6 +85,6 @@
    - And installed chrome driver 
 
    `#Day15`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 13 activities
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 14 activities
    - practised some automated testing
    - revised all i learned in 3 weeks
