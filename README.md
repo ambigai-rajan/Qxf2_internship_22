@@ -79,7 +79,12 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 12 activities
    - Learnt How to  do automatation testing
 
-   `Day14`
+   `#Day14`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 13 activities
    - learnt exploratory testing, horizontal and vertical scaling
-   - And installed geckho and chrome driver 
+   - And installed chrome driver 
+
+   `#Day15`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 13 activities
+   - practised some automated testing
+   - revised all i learned in 3 weeks
