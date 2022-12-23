@@ -88,3 +88,8 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 14 activities
    - practised some automated testing
    - revised all i learned in 3 weeks
+   
+   `#Day16`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 15 activities
+   - Practised some automation testing
+   - Prepared presentation about all I learned thrghout the Internship
