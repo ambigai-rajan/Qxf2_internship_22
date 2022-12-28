@@ -98,3 +98,8 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 16 activities 
    - Practised slenium python testing tutorial
    - Presented presentation about I learned throghout this internship 
+
+   `#Day18`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 17 activities 
+   - Fixes issues in my repository
+   - Learnt pylint 
