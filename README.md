@@ -106,4 +106,9 @@
 
    `#Day19`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 17 activities 
-   - Clearing the issues in pylint 
+   - Clearing the issues in pylint
+
+   `#Day20`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 18 activities
+   - Fixes issues using pylint against python files 
+   - Staerted learning pytest 
