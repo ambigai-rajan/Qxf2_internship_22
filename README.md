@@ -105,15 +105,19 @@
    - Learnt pylint 
 
    `#Day19`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 17 activities 
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 18 activities 
    - Clearing the issues in pylint
 
    `#Day20`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 18 activities
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 19 activities
    - Fixes issues using pylint against python files 
    - Staerted learning pytest 
    
    `#Day21
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 20  activities
    - EXploring Pytest 
    - Updating [Linkedin](https://www.linkedin.com/in/ambigai-rajan-n-bb6027259/)
+   
+   `Day22`
+   - Modifying existing python files using Pytest
    
