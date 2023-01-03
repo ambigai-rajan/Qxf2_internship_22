@@ -24,7 +24,7 @@ from selenium import webdriver
 from selenium.webdriver.common.action_chains import ActionChains
 def test_hover():
 # Create an instance of Firefox WebDriver
-    driver = webdriver.Chrome("e:/chromedriver.exe")
+    driver = webdriver.Chrome()
 # Maximize the browser window
     driver.maximize_window()
 # Navigate to Qxf2 Tutorial page

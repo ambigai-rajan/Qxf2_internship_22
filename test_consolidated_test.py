@@ -32,17 +32,17 @@ def test_consolidate():
     driver.get("http://qxf2.com/selenium-tutorial-main")
 
 # Find the Example table element in the page
-    table = driver.find_element("xpath", "//table[@name='Example Table']")
+    table = driver.find_element_by_xpath("//table[@name='Example Table']")
 # Find no of rows in the table by getting the tr elements in the table
 # Using find_elements_by_xpath method
-# rows = table.find_elements("xpath", "//tbody/descendant::tr")
+    rows = table.find_elements_by_xpath("//tbody/descendant::tr")
 # Create a list to store the text
     result_data = []
 # Go to each row and get the no of columns and the navigate to column
 # Then get the text from each column
-    for i, row in enumerate("rows"):
+    for i, row in enumerate(rows):
     # Find no of columns by getting the td elements in each row
-        cols = row.find_elements("tag name", "td")
+        cols = row.find_element("tagname","td")
         cols_data = []
         for j, col in enumerate(cols):
         # Get the text of each field
@@ -52,31 +52,31 @@ def test_consolidate():
     print(result_data)
 
 # Find the name field using xpath with id
-    name = driver.find_element("xpath", "//input[@id='name']")
+    name = driver.find_element_by_xpath("//input[@id='name']")
 # Send text to the name element using send_keys method
     name.send_keys('Avinash')
 # Find the email field using xpath without id
-    email = driver.find_element("xpath", "//input[@name='email']")
+    email = driver.find_element_by_xpath("//input[@name='email']")
     email.send_keys('avinash@qxf2.com')
 # Find the phone no field using id
-    phone = driver.find_element("id", "phone")
+    phone = driver.find_element_by_id("phone")
     phone.send_keys('9999999999')
 
 # Set a dropdown
-    driver.find_element("xpath", "//button[@data-toggle='dropdown']").click()
+    driver.find_element_by_xpath("//button[@data-toggle='dropdown']").click()
     time.sleep(1)
 # Find the xpath of particular option and click on it
-    driver.find_element("xpath", "//a[text()='Male']").click()
+    driver.find_element_by_xpath("//a[text()='Male']").click()
 
 # Set a checkbox
-    checkbox = driver.find_element("xpath", "//input[@type='checkbox']")
+    checkbox = driver.find_element_by_xpath("//input[@type='checkbox']")
     checkbox.click()
 
 # Take screenshot
     driver.save_screenshot('Qxf2_Tutorial.png')
 
 # Identify the xpath for Click me button and click on it
-    button  = driver.find_element("xpath", "//button[text()='Click me!']")
+    button  = driver.find_element_by_xpath("//button[text()='Click me!']")
     button.click()
 
 # Pause the script for 3 sec
@@ -91,5 +91,5 @@ def test_consolidate():
 # Pause the script for 3 sec
     time.sleep(3)
 
-# Close the browser
+ # Close the browser
     driver.close()

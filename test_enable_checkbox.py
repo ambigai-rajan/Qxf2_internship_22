@@ -17,22 +17,22 @@ SCOPE:
 """
 import time
 from selenium import webdriver
-
+def test_checkbox():
 # Create an instance of Firefox WebDriver
-driver = webdriver.Chrome("E:/chromedriver.exe")
+    driver = webdriver.Chrome()
 # Maximize the browser window
-driver.maximize_window()
-driver.get("https://www.spotify.com/in-en/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F")
+    driver.maximize_window()
+    driver.get("https://www.spotify.com/in-en/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F")
 # KEY POINT:to close the popup
-BUTTON = "onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon"
-driver.find_element("xpath","//button[@class='button']").click()
+    
+    driver.find_element("xpath","//button[@class='onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon']").click()
 
 # KEY POINT: Locate the checkbox and click on it
-checkbox = driver.find_element("xpath", "//span[@class='Indicator-sc-1airx73-0 ihUlHW']")
-checkbox.click()
+    checkbox = driver.find_element("xpath", "//span[@class='Indicator-sc-1airx73-0 ihUlHW']")
+    checkbox.click()
 
 # Pause the script for 3 sec so you can confirm the check box was selected
-time.sleep(3)
+    time.sleep(3)
 
 # Close the browser window
-driver.close()
+    driver.close()
