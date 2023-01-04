@@ -1,4 +1,4 @@
- `#day1`
+ `#Day1`
    - I have completed creating and installing **skype**
    - I have completed istalling *vs code*
    - I have completed creating ~~trillo~~ [trello](https://trello.com/) acount.
@@ -88,10 +88,45 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 14 activities
    - practised some automated testing
    - revised all i learned in 3 weeks
-   
+
    `#Day16`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 15 activities
    - Practised some automation testing
-   - Prepared presentation about all I learned thrghout the Internship
+   - Prepared presentation about all I learned throghout this internship
    
+   `#Day17`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 16 activities 
+   - Practised slenium python testing tutorial
+   - Presented presentation about I learned throghout this internship 
+
+   `#Day18`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 17 activities 
+   - Fixes issues in my repository
+   - Learnt pylint 
+
+   `#Day19`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 18 activities 
+   - Clearing the issues in pylint
+
+   `#Day20`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 19 activities
+   - Fixes issues using pylint against python files 
+   - Staerted learning pytest 
+   
+   `#Day21`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 20  activities
+   - EXploring Pytest 
+   
+   `Day22`
+   - Modifying existing python files using Pytest
+   - Updating [Linkedin](https://www.linkedin.com/in/ambigai-rajan-n-bb6027259/)
+
+   `#Day23`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 21,22  activities
+   - Modifying existing files Python files using pytest
+
+   `Day24`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 23 activities
+   - Learnt about Agile Methodology
+   - Updated Modified files of Python using pytest on my Repositories
    
