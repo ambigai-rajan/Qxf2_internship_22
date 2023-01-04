@@ -1,4 +1,4 @@
- `#day1`
+ `#Day1`
    - I have completed creating and installing **skype**
    - I have completed istalling *vs code*
    - I have completed creating ~~trillo~~ [trello](https://trello.com/) acount.
@@ -124,4 +124,9 @@
    `#Day23`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 21,22  activities
    - MOdifying existing files Python files using pytest
+
+   `Day24`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 23 activities
+   - Learnt about Agile Methodology
+   - Updated Modified files o9f Python using pytest on my repositories
    
