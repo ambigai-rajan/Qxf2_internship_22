@@ -134,7 +134,6 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 24 activities
    - Learnt about [classes](https://www.youtube.com/watch?v=iScg1KJdqGs) in Python
    - Attended meeting about Selenium
-   - Updated Modified files of Python using pytest on my Repository
-   - MOdifying existing files Python files using pytest
+  
 
   
