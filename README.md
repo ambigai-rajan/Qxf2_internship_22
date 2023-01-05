@@ -132,5 +132,5 @@
 
    `#Day25`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 24 activities
-   - Learnt about classes in Python
+   - Learnt about [classes](https://www.youtube.com/watch?v=iScg1KJdqGs) in Python
    - Attended meeting about Selenium 
