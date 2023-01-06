@@ -128,7 +128,12 @@
    `Day24`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 23 activities
    - Learnt about Agile Methodology
-   - Updated Modified files of Python using pytest on my Repository
-   - MOdifying existing files Python files using pytest
+   - Updated Modified files of Python using pytest on my Repositories
 
-   
+   `#Day25`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 24 activities
+   - Learnt about [classes](https://www.youtube.com/watch?v=iScg1KJdqGs) in Python
+   - Attended meeting about Selenium
+  
+
+  
