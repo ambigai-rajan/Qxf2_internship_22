@@ -134,6 +134,10 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 24 activities
    - Learnt about [classes](https://www.youtube.com/watch?v=iScg1KJdqGs) in Python
    - Attended meeting about Selenium
+
+   `#Day26`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 25 activities
+   - Learnt about [Facade](https://refactoring.guru/design-patterns/facade/python/example) P_attern 
   
 
   
