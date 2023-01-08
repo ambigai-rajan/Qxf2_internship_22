@@ -17,25 +17,34 @@ SCOPE:
 """
 import time
 from selenium import webdriver
-def test_dropdoen():
+def test_dropdown():
+    class dropdown():
+        def select(self):
 # Create an instance of Firefox WebDriver
-    driver = webdriver.Chrome()
+            self.driver = webdriver.Chrome()
 # Maximize the browser window
-    driver.maximize_window()
+            self.driver.maximize_window()
 
 # Navigate to Qxf2 Tutorial page
-    driver.get("http://qxf2.com/selenium-tutorial-main")
+            self.driver.get("http://qxf2.com/selenium-tutorial-main")
 
 # KEY POINT: Identify the dropdown and click on it
-    dropdown_element = driver.find_element("xpath", "//button[@data-toggle='dropdown']")
-    dropdown_element.click()
+            dropdown_element = self.driver.find_element("xpath", "//button[@data-toggle='dropdown']")
+            dropdown_element.click()
 # Sleep is one way to pause while the page elements load
-    time.sleep(1)
+            time.sleep(1)
 
 # KEY POINT: Locate a particular option and click on it
-    driver.find_element("xpath", "//a[text()='Male']").click()
+            self.driver.find_element("xpath", "//a[text()='Male']").click()
 # Future tutorials cover explicit, implicit and ajax waits
-    time.sleep(3)
+            time.sleep(3)
 
 # Close the browser window
-    driver.close()
+            self.driver.close()
+    # Close the browser
+            self.driver.close()
+    class facade():
+        def __init__(self):
+            self.action=dropdown()
+        def check(self):
+            self.action.driver

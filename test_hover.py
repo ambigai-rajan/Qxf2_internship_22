@@ -23,29 +23,38 @@ from selenium import webdriver
 #Notice this extra import statement!
 from selenium.webdriver.common.action_chains import ActionChains
 def test_hover():
+    class hover():
+        def check_hover(self):
 # Create an instance of Firefox WebDriver
-    driver = webdriver.Chrome("e:/chromedriver.exe")
+            self.driver = webdriver.Chrome("e:/chromedriver.exe")
 # Maximize the browser window
-    driver.maximize_window()
+            self.driver.maximize_window()
 # Navigate to Qxf2 Tutorial page
-    driver.get("https://www.hicas.ac.in/")
+            self.driver.get("https://www.hicas.ac.in/")
 
 # Locate the Menu icon and click on it
-    menu = driver.find_element("xpath", "//div[@class='menuIcon']")
-    menu.click()
+            menu = self.driver.find_element("xpath", "//div[@class='menuIcon']")
+            menu.click()
 
 # Locate the Resource element to hover over
-    resource = driver.find_element("xpath", "//a[@href='news-events']")
-    resource.click()
+            resource = self.driver.find_element("xpath", "//a[@href='news-events']")
+            resource.click()
 
 # KEY POINT: Use ActionChains to hover over elements
-    action = ActionChains(driver)
-    action.perform()
-    time.sleep(2) #Adding waits to make the example more visual
+            action = ActionChains(self.driver)
+            action.perform()
+            time.sleep(2) #Adding waits to make the example more visual
 
 
 # Wait for 3 seconds for the page to load
-    time.sleep(3)
+            time.sleep(3)
 
 # Close the browser
-    driver.close()
+            self.driver.close()
+    # Close the browser
+            self.driver.close()
+    class facade():
+        def __init__(self):
+            self.action=hover()
+        def check(self):
+            self.action.driver

@@ -17,22 +17,32 @@ SCOPE:
 """
 import time
 from selenium import webdriver
-
+def test_enable_checkbox():
+    class get_spotify():
+        def __init__(self):
 # Create an instance of Firefox WebDriver
-driver = webdriver.Chrome("E:/chromedriver.exe")
+            self.driver = webdriver.Chrome("E:/chromedriver.exe")
 # Maximize the browser window
-driver.maximize_window()
-driver.get("https://www.spotify.com/in-en/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F")
+            self.driver.maximize_window()
+            self.driver.get("https://www.spotify.com/in-en/signup?forward_url=https%3A%2F%2Fopen.spotify.com%2F")
 # KEY POINT:to close the popup
-BUTTON = "onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon"
-driver.find_element("xpath","//button[@class='button']").click()
+            self.driver.find_element("xpath","//button[@class='onetrust-close-btn-handler onetrust-close-btn-ui banner-close-button ot-close-icon']").click()
 
 # KEY POINT: Locate the checkbox and click on it
-checkbox = driver.find_element("xpath", "//span[@class='Indicator-sc-1airx73-0 ihUlHW']")
-checkbox.click()
-
+            self.checkbox = self.driver.find_element("xpath","//span[@class='Indicator-sc-1airx73-0 ihUlHW']")
+            self.checkbox.click()
 # Pause the script for 3 sec so you can confirm the check box was selected
-time.sleep(3)
+            time.sleep(3)
 
 # Close the browser window
-driver.close()
+            self.driver.close()
+#Facade Pattern
+    class Facade():
+        def __init__(self):
+            self.site=get_spotify()
+        def begin_test(self):
+                self.site.__init__()
+    if __name__ == "__main__":
+        navigate=Facade()
+        navigate.begin_test()
+
