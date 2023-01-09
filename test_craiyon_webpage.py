@@ -8,7 +8,7 @@ def test_title():
             self.driver.get("https://www.craiyon.com/")
             self.driver.find_element("xpath","//div[@id='prompt']").send_keys("child in mars")
             self.driver.find_element("xpath","//button[@type='button']").click()
-            self.driver.sleep(10)
+            self.driver.sleep(11)
             self.driver.quit()
     class pytest():
         def check_title(self):        
