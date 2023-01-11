@@ -141,13 +141,12 @@
    
    `#Day27`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 26 activities
+   - Learnt about [Facade](https://refactoring.guru/design-patterns/facade/python/example) Pattern 
    - Modified my existing Python files using Facde pattern
 
    `#Day28`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 27 activities
    - Learnt about Minimum Viable Product
-   - Started Learning about Python From Scratch
-   
-  
+   - Started Learning about Python From Scratc
 
   
