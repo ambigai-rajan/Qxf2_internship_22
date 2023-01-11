@@ -147,6 +147,12 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 27 activities
    - Learnt about Minimum Viable Product
    - Started Learning about Python From Scratch
+
+   `#Day29`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
+   - Going through Python Exercise (Strings)
+   - Learnt about Git Ignore
+
   
 
   
