@@ -153,6 +153,11 @@
    - Going through Python Exercise (Strings)
    - Learnt about Git Ignore
 
+   `#Day30`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
+   - Make changes to my Resume
+   - Still in the process of learning Python 
+
   
 
   
