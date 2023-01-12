@@ -147,6 +147,12 @@
    `#Day28`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 27 activities
    - Learnt about Minimum Viable Product
-   - Started Learning about Python From Scratc
+   - Started Learning about Python From Scratch
+
+   `#Day29`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
+   - Going through Python Exercise (Strings)
+   - Learnt about [Gitignore](https://www.w3schools.com/git/git_ignore.asp?remote=github#:~:text=Git%20can%20specify%20which%20files,gitignore%20.)
+  
 
   
