@@ -152,7 +152,12 @@
    `#Day29`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
    - Going through Python Exercise (Strings)
-   - Learnt about [Gitignore](https://www.w3schools.com/git/git_ignore.asp?remote=github#:~:text=Git%20can%20specify%20which%20files,gitignore%20.)
+   - Learnt about Git Ignore
+
+   `#Day30`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
+   - Make changes to my Resume
+   - Still in the process of learning Python
   
 
   
