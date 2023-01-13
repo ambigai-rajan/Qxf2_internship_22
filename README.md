@@ -151,12 +151,18 @@
    `#Day29`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
    - Going through Python Exercise (Strings)
-   - Learnt about Git Ignore
+   - Learnt about [Gitignore](https://www.w3schools.com/git/git_ignore.asp?remote=github#:~:text=Git%20can%20specify%20which%20files,gitignore%20.)
 
    `#Day30`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 28 activities
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 29 activities
    - Make changes to my Resume
    - Still in the process of learning Python 
+
+   `#Day31`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 30 activities
+   - Made my Github [Repository](https://github.com/ambigai-rajan/Qxf2_internship_22) to public
+   - Made my Github [Profile](https://github.com/ambigai-rajan) Better
+   - In the Process of Learning Python - **If clause**
 
   
 
