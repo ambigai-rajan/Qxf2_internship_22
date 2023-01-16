@@ -16,19 +16,29 @@ SCOPE:
 4) Close the browser
 """
 from selenium import webdriver
+def test_url():
+    class navigate():
+        def navigate_url(self):
 
 # Create an instance of Firefox WebDriver
-browser = webdriver.Chrome("e:chromedriver.exe")
+            self.browser = webdriver.Chrome("e:chromedriver.exe")
 
 # KEY POINT: The driver.get method will navigate to a page given by the URL
-browser.get('https://secure.wufoo.com/signup/17/register/')
+            self.browser.get('https://secure.wufoo.com/signup/17/register/')
 
 # Check if the title of the page is proper
-if browser.title == "Wufoo!":
+            if self.browser.title == "Wufoo!":
 
-    print ("Success: Wufoo!")
-else:
-    print ("Failed: Wufoo!")
+                print ("Success: Wufoo!")
+            else:
+                print ("Failed: Wufoo!")
 
 # Quit the browser window
-browser.quit()
+            self.browser.quit()
+    # Close the browser
+            self.driver.close()
+    class facade():
+        def __init__(self):
+            self.action=navigate()
+        def check(self):
+            self.action.browser
