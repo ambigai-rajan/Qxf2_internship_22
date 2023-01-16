@@ -17,33 +17,33 @@ SCOPE:
 
 import time
 from selenium import webdriver
-
+def test_formsubmition():
 # Create an instance of CHrome WebDriver
-driver = webdriver.Chrome("E:/chromedriver.exe")
+    driver = webdriver.Chrome()
 # Maximize the browser window
-driver.maximize_window()
+    driver.maximize_window()
 # Navigate to Qxf2 Tutorial page
-driver.get("http://qxf2.com/selenium-tutorial-main")
+    driver.get("http://qxf2.com/selenium-tutorial-main")
 
 #KEY POINT: Code to fill forms
 # Find the name field and fill name
-name = driver.find_element("xpath", "//input[@id='name']")
-name.send_keys('Avinash')
+    name = driver.find_element("xpath", "//input[@id='name']")
+    name.send_keys('Avinash')
 # Find the email field and fill your email
-driver.find_element("xpath", "//input[@name='email']").send_keys('avinash@qxf2.com')
+    driver.find_element("xpath", "//input[@name='email']").send_keys('avinash@qxf2.com')
 # Find the phone no field and fill phone no
-phone = driver.find_element("id", "phone")
-phone.send_keys('9999999999')
+    phone = driver.find_element("id", "phone")
+    phone.send_keys('9999999999')
 # Identify the xpath for Click me button and click on it
-button = driver.find_element("xpath", "//button[text()='Click me!']")
-button.click()
+    button = driver.find_element("xpath", "//button[text()='Click me!']")
+    button.click()
 # Wait for the new page to load
-time.sleep(3)
+    time.sleep(3)
 # Verify user is taken to Qxf2 tutorial redirect url
-if driver.current_url== 'https://qxf2.com/selenium-tutorial-redirect':
-    print("Success")
-else:
-    print("Failure")
+    if driver.current_url== 'https://qxf2.com/selenium-tutorial-redirect':
+        print("Success")
+    else:
+        print("Failure")
 
 # Close the browser
-driver.close()
+    driver.close()
