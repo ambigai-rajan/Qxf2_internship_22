@@ -164,9 +164,13 @@
    - Made my Github [Profile](https://github.com/ambigai-rajan) Better
    - In the Process of Learning Python - **If clause**
 
-   `Day32`
+   `#Day32`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 31 activities
    - In the process of Learning Python - **other comparison operators**
+
+   `#Day33`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 32 activities
+   - In the process of Learning Python - **string methods and immutablity**
 
   
 
