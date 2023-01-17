@@ -17,23 +17,30 @@ SCOPE:
 """
 import time
 from selenium import webdriver
-
+def test_count_rows():
+    class count_rows():
+        def count(self):
 # Create an instance of Firefox WebDriver
-driver = webdriver.Chrome("E:/chromedriver.exe")
+            self.driver = webdriver.Chrome("E:/chromedriver.exe")
 # Maximize the browser window
-driver.maximize_window()
+            self.driver.maximize_window()
 # Navigate to Qxf2 Tutorial page
-driver.get("https://www.google.com/search?q=fifa+points+table&oq=fifa+points+&aqs=chrome.0.0i433i512j69i57j0i512l8.10310j1j15&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;")
+            self.driver.get("https://www.google.com/search?q=fifa+points+table&oq=fifa+points+&aqs=chrome.0.0i433i512j69i57j0i512l8.10310j1j15&sourceid=chrome&ie=UTF-8#sie=lg;/m/0fp_8fm;2;/m/030q7;st;fp;1;;;")
 
 # Find the table element in the page
-table = driver.find_element("xpath", "//div[@jsname='LS81yb']")
+            table = self.driver.find_element("xpath", "//div[@jsname='LS81yb']")
 
 # KEY POINT: Find the tr elements in the table
-rows = table.find_elements("xpath", "//tbody/descendant::tr")
-print(f"Total No of Rows: {len(rows)}")
+            rows = table.find_elements("xpath", "//tbody/descendant::tr")
+            print(f"Total No of Rows: {len(rows)}")
 
 # Pause the script for 3 seconds
-time.sleep(3)
+            time.sleep(3)
 
 # Close the browser
-driver.close()
+            self.driver.close()
+    class facade():
+        def __init__(self):
+            self.action=count_rows()
+        def check(self):
+            self.action.driver
