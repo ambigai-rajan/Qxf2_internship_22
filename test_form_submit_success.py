@@ -17,33 +17,41 @@ SCOPE:
 
 import time
 from selenium import webdriver
+def test_form_submit():
+    class form_submit():
+        def submit_succes(self):
 
 # Create an instance of CHrome WebDriver
-driver = webdriver.Chrome("E:/chromedriver.exe")
+            self.driver = webdriver.Chrome("E:/chromedriver.exe")
 # Maximize the browser window
-driver.maximize_window()
+            self.driver.maximize_window()
 # Navigate to Qxf2 Tutorial page
-driver.get("http://qxf2.com/selenium-tutorial-main")
+            self.driver.get("http://qxf2.com/selenium-tutorial-main")
 
 #KEY POINT: Code to fill forms
 # Find the name field and fill name
-name = driver.find_element("xpath", "//input[@id='name']")
-name.send_keys('Avinash')
+            name = self.driver.find_element("xpath", "//input[@id='name']")
+            name.send_keys('Avinash')
 # Find the email field and fill your email
-driver.find_element("xpath", "//input[@name='email']").send_keys('avinash@qxf2.com')
+            self.driver.find_element("xpath", "//input[@name='email']").send_keys('avinash@qxf2.com')
 # Find the phone no field and fill phone no
-phone = driver.find_element("id", "phone")
-phone.send_keys('9999999999')
+            phone = self.driver.find_element("id", "phone")
+            phone.send_keys('9999999999')
 # Identify the xpath for Click me button and click on it
-button = driver.find_element("xpath", "//button[text()='Click me!']")
-button.click()
+            button = self.driver.find_element("xpath", "//button[text()='Click me!']")
+            button.click()
 # Wait for the new page to load
-time.sleep(3)
+            time.sleep(3)
 # Verify user is taken to Qxf2 tutorial redirect url
-if driver.current_url== 'https://qxf2.com/selenium-tutorial-redirect':
-    print("Success")
-else:
-    print("Failure")
+            if self.driver.current_url== 'https://qxf2.com/selenium-tutorial-redirect':
+                print("Success")
+            else:
+                print("Failure")
 
 # Close the browser
-driver.close()
+            self.driver.close()
+    class facade():
+        def __init__(self):
+            self.action=form_submit()
+        def check(self):
+            self.action.driver

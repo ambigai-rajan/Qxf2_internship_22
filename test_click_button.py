@@ -18,18 +18,26 @@ SCOPE:
 import time
 from selenium import webdriver
 def test_click():
+    class button():
+        def click_button(self):
 # Create an instance of Chrome WebDriver
-    driver = webdriver.Chrome()
+            self.driver = webdriver.Chrome()
 # Maximize the browser window
-    driver.maximize_window()
+            self.driver.maximize_window()
 # Navigate to Qxf2 Tutorial page
-    driver.get("https://secure.wufoo.com/signup/17/register/")
+            self.driver.get("https://secure.wufoo.com/signup/17/register/")
 
 # KEY POINT: Locate the button and click on it
-    button  = driver.find_element("xpath", "//input[@id='saveForm']")
-    button.click()
+            button  = self.driver.find_element("xpath", "//input[@id='saveForm']")
+            button.click()
 
 # Pause the script to wait for page elements to load
-    time.sleep(3)
+            time.sleep(3)
 # Close the browser
-    driver.close()
+            self.driver.close()
+    class facade():
+        def __init__(self):
+            self.action=button()
+        def start_test(self):
+            self.action.driver
+
