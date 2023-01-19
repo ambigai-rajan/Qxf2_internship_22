@@ -172,8 +172,10 @@
    `#Day33`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 32 activities
    - In the process of Learning Python - **string methods and immutablity**
+   
+   `#Day34`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 33 activities
+   - In the process of learning Python - **A bit more about Strings - f-strings**  
 
-
-  
 
   
