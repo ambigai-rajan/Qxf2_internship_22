@@ -180,4 +180,9 @@
    `#Day35`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 33 activities
    - In the process of leaening Python- **Nested loops**
-                                      - **Functions**       
+                                      - **Functions**
+
+  `#Day36`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 34 activities
+   - In the process of learning Python- **Boolean Operaters** - **Tic Tac Toe Project**
+
