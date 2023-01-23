@@ -178,11 +178,16 @@
    - In the process of learning Python - **A bit more about Strings - f-strings**  
 
    `#Day35`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 33 activities
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 34 activities
    - In the process of leaening Python- **Nested loops**
                                       - **Functions**
 
   `#Day36`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 34 activities
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 35 activities
    - In the process of learning Python- **Boolean Operaters** - **Tic Tac Toe Project**
+
+  `#Day37`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 36 activities
+   - Completed Python Course
+   - Explored Python anywhere
 
