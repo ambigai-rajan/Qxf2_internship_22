@@ -191,3 +191,8 @@
    - Completed Python Course
    - Explored Python anywhere
 
+   `#Day38`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 36 activities
+   - Explored Python anywhere
+   - Learnt about Flask framework 
+
