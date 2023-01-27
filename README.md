@@ -189,7 +189,7 @@
   `#Day37`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 36 activities
    - Completed Python Course
-   - Explored Python anywhere
+   - Explored Pythonanywhere
 
    `#Day38`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 37 activities
