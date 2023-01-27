@@ -200,3 +200,7 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 38 activities
    - Created Resume using HTML
 
+  `#Day40`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 39 activities
+   - uploded my resume in [Pythonanywhere](http://ambigairajan.pythonanywhere.com/)
+
