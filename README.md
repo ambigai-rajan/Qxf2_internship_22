@@ -204,3 +204,7 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 39 activities
    - uploded my resume in [Pythonanywhere](http://ambigairajan.pythonanywhere.com/)
 
+  `#Day41`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 40 activities
+   - Prepared 15 Questions about **Git**, **Selenium**, **Pytest**
+
