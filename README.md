@@ -208,3 +208,8 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 40 activities
    - Prepared 15 Questions about **Git**, **Selenium**, **Pytest**
 
+  `Day42`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 41 activities
+   - Connected Github repository and Pythonanywhere Resume
+   - started learning about Software testing
+
