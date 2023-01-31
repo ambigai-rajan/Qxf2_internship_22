@@ -210,6 +210,6 @@
 
   `Day42`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 41 activities
-   - Connected Github repository and Pythonanywhere Resume
+   - Connected Github repository and [Pythonanywhere](http://ambigairajan.pythonanywhere.com/) Resume
    - started learning about Software testing
 
