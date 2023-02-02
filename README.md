@@ -211,5 +211,12 @@
   `Day42`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 41 activities
    - Connected Github repository and [Pythonanywhere](http://ambigairajan.pythonanywhere.com/) Resume
-   - started learning about Software testing I refered this [Youtube](https://www.youtube.com/watch?v=cDQ34z0oqnQ) and this [blog](https://www.youtube.com/watch?v=cDQ34z0oqnQ) 
+   - started learning about Software testing I refered this [Youtube](https://www.youtube.com/watch?v=cDQ34z0oqnQ) and this [blog](https://www.ibm.com/in-en/topics/software-testing) 
+  
+  `Day43`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 42 activities
+   - Learned about Basics of software testing Referred theese vedios
+       - https://www.youtube.com/watch?v=qQfFp_GORpY
+       - https://www.youtube.com/watch?v=rhE45ihB26E
+       - https://www.youtube.com/watch?v=cDQ34z0oqnQ and this [blog](https://www.ibm.com/in-en/topics/software-testing)
 
