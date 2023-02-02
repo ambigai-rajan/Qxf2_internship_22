@@ -219,4 +219,9 @@
        - https://www.youtube.com/watch?v=qQfFp_GORpY
        - https://www.youtube.com/watch?v=rhE45ihB26E
        - https://www.youtube.com/watch?v=cDQ34z0oqnQ and this [blog](https://www.ibm.com/in-en/topics/software-testing)
+  
+  `Day44`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 43 activities
+   - Revised about `PIP` Using my notes and How Qxf2 approaches Testing using this [blog](https://qxf2.com/where-start-testing)
+   - Revised Slenium using this [blog](https://www.guru99.com/introduction-to-selenium.html)
 
