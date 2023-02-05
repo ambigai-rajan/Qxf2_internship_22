@@ -223,5 +223,11 @@
   `Day44`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 43 activities
    - Revised about `PIP` Using my notes and How Qxf2 approaches Testing using this [blog](https://qxf2.com/where-start-testing)
-   - Revised Selenium using this [blog](https://www.guru99.com/introduction-to-selenium.html)
+   - Revised Slenium using this [blog](https://www.guru99.com/introduction-to-selenium.html)
 
+  `Day45`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 4$ activities
+   - Revised [HTML](https://www.youtube.com/watch?v=OQ2448utWIE)
+   - Revised [CSS](https://www.youtube.com/watch?v=P5YjskbxYIY)
+   - Revised [DOM](https://www.youtube.com/watch?v=D04yjfmgiD4)
+   - REvised Xpath Using my notes
