@@ -237,3 +237,9 @@
    - Revised [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
    - Revised [Classes](https://www.w3schools.com/python/python_classes.asp) in Python
    - Attended Git session and learnt git better
+
+  `Day47`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 47 activities
+   - Learned about [HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) methods
+   - Revised about What are all the things I learned throughout this internship
+   - attended session about Selenium 
