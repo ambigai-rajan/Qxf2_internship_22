@@ -248,3 +248,7 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 48 activities
    - Revised about Agile Methodolodgy using this [blog](https://www.guru99.com/agile-scrum-extreme-testing.html)
    - Learnt about Client Server Archtecture using this [blog](https://intellipaat.com/blog/what-is-client-server-architecture/)
+
+  `#Day49`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 49 activities
+   - Written Test Case for Factorial Webpage
