@@ -243,3 +243,8 @@
    - Learned about [HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) methods
    - Revised about What are all the things I learned throughout this internship
    - attended session about Selenium 
+
+  `Day48`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 48 activities
+   - Revised about Agile Methodolodgy using this [blog](https://www.guru99.com/agile-scrum-extreme-testing.html)
+   - Learnt about Client Server Archtecture using this [blog](https://intellipaat.com/blog/what-is-client-server-architecture/)
