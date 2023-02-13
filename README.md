@@ -208,43 +208,43 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 40 activities
    - Prepared 15 Questions about **Git**, **Selenium**, **Pytest**
 
-  `Day42`
+  `#Day42`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 41 activities
    - Connected Github repository and [Pythonanywhere](http://ambigairajan.pythonanywhere.com/) Resume
    - started learning about Software testing I refered this [Youtube](https://www.youtube.com/watch?v=cDQ34z0oqnQ) and this [blog](https://www.ibm.com/in-en/topics/software-testing) 
   
-  `Day43`
+  `#Day43`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 42 activities
    - Learned about Basics of software testing Referred theese vedios
        - https://www.youtube.com/watch?v=qQfFp_GORpY
        - https://www.youtube.com/watch?v=rhE45ihB26E
        - https://www.youtube.com/watch?v=cDQ34z0oqnQ and this [blog](https://www.ibm.com/in-en/topics/software-testing)
   
-  `Day44`
+  `#Day44`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 43 activities
    - Revised about `PIP` Using my notes and How Qxf2 approaches Testing using this [blog](https://qxf2.com/where-start-testing)
    - Revised Slenium using this [blog](https://www.guru99.com/introduction-to-selenium.html)
 
-  `Day45`
+  `#Day45`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 45 activities
    - Revised [HTML](https://www.youtube.com/watch?v=OQ2448utWIE)
    - Revised [CSS](https://www.youtube.com/watch?v=P5YjskbxYIY)
    - Revised [DOM](https://www.youtube.com/watch?v=D04yjfmgiD4)
   
-  `Day46`
+  `#Day46`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 46 activities
    - Revised [Xpath](https://qxf2.com/blog/getting-started-with-xpaths/)and [CSS](https://qxf2.com/blog/how-to-write-css-selectors/)
    - Revised [DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
    - Revised [Classes](https://www.w3schools.com/python/python_classes.asp) in Python
    - Attended Git session and learnt git better
 
-  `Day47`
+  `#Day47`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 47 activities
    - Learned about [HTTPS](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods) methods
    - Revised about What are all the things I learned throughout this internship
    - attended session about Selenium 
 
-  `Day48`
+  `#Day48`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 48 activities
    - Revised about Agile Methodolodgy using this [blog](https://www.guru99.com/agile-scrum-extreme-testing.html)
    - Learnt about Client Server Archtecture using this [blog](https://intellipaat.com/blog/what-is-client-server-architecture/)
@@ -252,3 +252,8 @@
   `#Day49`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 49 activities
    - Written Test Case for Factorial [Webpage](https://docs.google.com/spreadsheets/d/17Bz_mQ5zgG_tAZTd3tImcb9LIzTpDnTC3MpYmeAeT0o/edit#gid=0)
+  
+  `#Day50`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 49 activities
+   - Learned about Project Object Model Using this [Blog](https://www.browserstack.com/guide/page-object-model-in-selenium#:~:text=Page%20Object%20Model%2C%20also%20known,application%20as%20a%20class%20file.)
+   - Learned about Boundary Value Analysis Using this [Blog](https://www.geeksforgeeks.org/software-testing-boundary-value-analysis/)
