@@ -272,3 +272,11 @@
                - https://www.youtube.com/watch?v=rOTqprHv1YE
                - https://www.youtube.com/watch?v=nCCG53SAjd0
    - Learned some Docker Commands 
+
+  `#Day53`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 52 activities
+   - Revised about Dockers and Containers using this [blog](https://docs.docker.com/get-started/overview/) and 
+   this Vedios
+               - https://www.youtube.com/watch?v=rOTqprHv1YE
+               - https://www.youtube.com/watch?v=nCCG53SAjd0
+   - Revised some Docker Commands 
