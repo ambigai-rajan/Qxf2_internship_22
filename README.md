@@ -280,3 +280,8 @@
                - https://www.youtube.com/watch?v=rOTqprHv1YE
                - https://www.youtube.com/watch?v=nCCG53SAjd0
    - Revised some Docker Commands 
+
+  `#Day54`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 53 activities
+   - I have completed the local setup for Qxf2's practise aiml web app
+   - looking up to the download nltk data
