@@ -289,4 +289,4 @@
   `#Day55`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 54 activities
    - I wrote Test cases for Qxf2's practise aiml web app
-   - Learned about API testing using this [Blog](https://www.techtarget.com/searchapparchitecture/definition/API-testing#:~:text=API%20testing%20is%20a%20type,as%20part%20of%20integration%20testing.)
+   - Learning about API testing using this [Blog](https://www.techtarget.com/searchapparchitecture/definition/API-testing#:~:text=API%20testing%20is%20a%20type,as%20part%20of%20integration%20testing.)
