@@ -295,3 +295,7 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 55 activities
    - I wrote code for UI automation for Qxf2's practise aiml web app
    - Learning how to write API test
+
+  `#Day57`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 56 activities
+   - I wrote basic code for API test for Qxf2's practise aiml web app
