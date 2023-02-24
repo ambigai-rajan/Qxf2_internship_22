@@ -301,5 +301,10 @@
    - I wrote basic code for API test for Qxf2's practise aiml web app
 
   `#Day58`
-   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 56 activities
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 57 activities
    - Looked up for giving input and getting output as a response 
+
+  `#Day59`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 58 activities
+   - Setted up the tests trigger via ***CI*** for push any changes to a branch
+   - clered the error that given by the test
