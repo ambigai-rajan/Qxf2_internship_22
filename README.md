@@ -299,3 +299,7 @@
   `#Day57`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 56 activities
    - I wrote basic code for API test for Qxf2's practise aiml web app
+
+  `#Day58`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 56 activities
+   - Looked up for giving input and getting output as a response 
