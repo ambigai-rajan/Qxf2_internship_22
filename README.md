@@ -255,7 +255,7 @@
   
   `#Day50`
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 49 activities
-   - Learned about Project Object Model Using this [Blog](https://www.browserstack.com/guide/page-object-model-in-selenium#:~:text=Page%20Object%20Model%2C%20also%20known,application%20as%20a%20class%20file.)
+   - Learned about Page Object Model Using this [Blog](https://www.browserstack.com/guide/page-object-model-in-selenium#:~:text=Page%20Object%20Model%2C%20also%20known,application%20as%20a%20class%20file.)
    - Learned about Boundary Value Analysis Using this [Blog](https://www.geeksforgeeks.org/software-testing-boundary-value-analysis/)
   
   `#Day51`
