@@ -308,3 +308,8 @@
    - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 58 activities
    - Setted up the tests trigger via ***CI*** for push any changes to a branch
    - clered the error that given by the test
+  
+  `#Day60`
+   - Created a new branch on my github [repo](https://github.com/ambigai-rajan/Qxf2_internship_22) and updated my day 59 activities
+   - Explore about SSO and written a Page about SSO in my own words
+   - Added a challenge to Qxf2's repository
